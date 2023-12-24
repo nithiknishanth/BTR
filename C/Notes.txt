@@ -1,0 +1,62 @@
+Date : 20-Dec-2023
+
+Today I am gonna start my Back_To_Roots process, where I relearn all coding/programming concepts from scratch.
+And this is going to be my main Notes Page/Journal as I go through this journey.
+After much taught I belive I am going to learn C programming as my base and gonna extend it to Java.
+As all other languages are going to be a derivative the the above or too slow like python.
+And this time around I am going to learn in-depth concepts and completely understand the very fundamentals of,
+computer science.
+
+Day 1:
+Variables:
+char : Smallest addressable unit of the machine that contains a basic character.
+signed char : of the same size as char, but guarented to be signed.
+unsigned char : of the same size as char, but guarented to be unsigned.
+short : short signed integer
+int : basic signed integer
+unsigned : basic unsigned integer
+long : long signed integer type
+unsigned long : long unsigned integer type
+long long : long signed integer
+unsigned long long : long unsigned integer
+float : Real floating point type
+double : Real floating point type
+long double : Real floating point type  
+
+
+format specifiers:
+%c = character
+%s = string
+%f = float
+%lf = double
+%d = integer
+%.1 = decimal; precision
+%1 = minimim field width
+%- = left align
+
+
+Day 2:
+Some of the common string functions are
+strlwr -> converts a string to lowercase
+strupr -> converts a string to uppercase
+strcat -> appends string2 to end of string1
+strcpy -> copy string2 to string1
+strncpy -> copy n characters of string2 to string1
+
+continue = skips rest of code and forces the next iteration of the loop
+break = exits a loop/switch
+
+
+bitwise operators
+& and operators
+| or operators
+^ Xor
+<< left shift
+>> right shift
+
+
+Day 3:
+checkout Graphviz for representing graphs in C
+To use dot framework to visualize graphs use the below command 
+$ dot example.dot -Tpdf > graph.pdf
+and check out graph.pdf generated

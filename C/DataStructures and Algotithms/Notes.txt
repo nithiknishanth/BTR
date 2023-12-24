@@ -1,0 +1,11 @@
+Ref : Mastering Algorithms wih C - Kyle Loudon
+DataStructures , Data comes in all shapes and size but often it can be organized in the same way.
+The reasons for using data structures is Efficiency, Abstraction , Reusability
+
+
+Linked List:
+A linked list are some of the fundamental data structure , linked list consists of a number of elements grouped or linked together in a specific 
+order, They are usefull in maintaining collections of data, similar ro the way that arrays are often used.
+However linked lists offer some advantages linked
+* They make use of dynamically allocated storage
+* They are more efficient in programming insertions and deletions

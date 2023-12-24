@@ -1,0 +1,6 @@
+All data is stored in file system as series of bytes in ram of disk 110110 -> 26
+Ascii stores a list of basic patterns as instrictions upto 0 to 127
+each character is represented as 8 bits of data , called as ASCII Encoding H -> 72 > 01001000
+In unicode a Graphene is a single character of human writing system say D
+There are more than 1 encoding points in UTF as UTF-8 UTF-32 etc
+UTF-8 Maps each code points between 1 and 8

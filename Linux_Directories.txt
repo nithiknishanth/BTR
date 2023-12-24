@@ -1,0 +1,18 @@
+FHS is file hierarchy structure and is maintained by linux admins
+/bin directory is binary directory, like ls, cat and all core binaries are stored here
+/sbin is system binaries where admin users will have rights to, where normal users will not have access to
+/boot has bootloaders and other boot respective files
+/dev is where devices live , like disks and other stuff
+/etc is where system wide config are present like apt
+/lib is where libraries are stores, where applications use to use these libraries for various processes
+/media or /mnt is where media or mounts are stored
+/opt is optional folder where manually installed software from vendor package reside
+/proc is where sudo files exists, like system information and other stuff (Every process running will have a directory here which will have info on the process)
+/root is the root users home directory, you need root user permissions to access it
+/run is a new directory which is a tempfs filesystem that runs in ram
+/srv is the service directory where the service data is stored
+/sys is the directory to interact with the kernel
+/tmp is a temporary directory
+/usr is the user application space where user application is installed
+/var is the variable directory where files that grows in size are kept
+/home is where each user stores personal files and documents
